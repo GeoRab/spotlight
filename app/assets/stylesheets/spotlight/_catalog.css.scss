@@ -26,6 +26,10 @@
     @extend .label;
     @extend .label-default;
   }
+
+  #openseadragon1 {
+    border: 1px solid $gray;
+  }
 }
 
 form.edit_solr_document {
